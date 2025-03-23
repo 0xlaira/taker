@@ -2144,3 +2144,15 @@
 3/23/2025 | 4:22:59 PM | INFO | Trying to check user miner status... 
 3/23/2025 | 4:22:59 PM | INFO | Last mining time: 3/22/2025, 8:20:27 PM
 3/23/2025 | 4:22:59 PM | WARN | Mining already started, next mining time is: 3/23/2025, 8:20:27 PM
+3/23/2025 | 8:20:25 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/23/2025 | 8:20:25 PM | INFO | Start process for wallet 0xe86CB6612Cc17a6901DD7a1f7095c97E4F62A89D 
+3/23/2025 | 8:20:26 PM | INFO | Trying To Login for wallet: 0xe86CB6612Cc17a6901DD7a1f7095c97E4F62A89D 
+3/23/2025 | 8:20:27 PM | INFO | Login successful... 
+3/23/2025 | 8:20:27 PM | INFO | Trying to check user info... 
+3/23/2025 | 8:20:28 PM | INFO | User ID: 102657628 | Twitter: @lairagayatri | Total Points: 792000 
+3/23/2025 | 8:20:28 PM | INFO | Trying to check user miner status... 
+3/23/2025 | 8:20:29 PM | INFO | Last mining time: 3/22/2025, 8:20:27 PM
+3/23/2025 | 8:20:29 PM | INFO | Trying to start Mining for wallet: 0xe86CB6612Cc17a6901DD7a1f7095c97E4F62A89D 
+3/23/2025 | 8:20:30 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/23/2025 | 8:20:30 PM | INFO | Trying to activate mining on-chain for wallet: 0xe86CB6612Cc17a6901DD7a1f7095c97E4F62A89D 
+3/23/2025 | 8:20:36 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xca919a4006fd95604952337dfab5283e42d9230e7c5c943ad0c9bdc10bb6108a 
